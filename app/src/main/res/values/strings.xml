@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">revolut</string>
+    <string name="currency_list_fragment_title">Rates</string>
+    <string name="currency_hint">0</string>
 </resources>
