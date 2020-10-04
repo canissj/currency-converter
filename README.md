@@ -2,7 +2,7 @@
 This is a live currency converter app. 
 When you click on a cell it comes as first responder. When you change the amount of the first currency, other currencies update their values. Every 1 second an api call is made to update rates. This triggers a refresh on the amounts of the cells. 
 
-![](https://media.giphy.com/media/QxRp0pDljoYuT734eU/giphy.gif)
+![gif displaying a demo](https://media.giphy.com/media/QxRp0pDljoYuT734eU/giphy.gif)
 
 # Structure
 This project follows the MVVM and Repository pattern
